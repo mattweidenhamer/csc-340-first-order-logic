@@ -24,3 +24,7 @@ all turtles are reptiles.
 Remember: for prolog to work, all final facts will have to have one term, create at least one instance of dog, wolf, cat, lion, and turtle.
 
 Create an Ask Section that determines:
+* Whether your turtle is an animal
+* Whether your dog is a canine
+* List all animals
+* List all mammals
